@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @angelatackett
-- 👀 I’m interested in Data Engineering and Backend Software Development
-- 🌱 I’m currently learning SQL, Database Design Concepts & Applications & Java!
-- 💞️ I’m looking to collaborate on projects!
 - 📫 How to reach me https://www.linkedin.com/in/atackett --> Shoot me a message or connect!
 
 <!---
